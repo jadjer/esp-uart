@@ -1,7 +1,7 @@
-cmake_minimum_required(VERSION 3.17)
+cmake_minimum_required(VERSION 3.30.5)
 
 set(SOURCES
-
+        src/UART.cpp
 )
 
 set(COMPONENTS
